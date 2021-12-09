@@ -1,3 +1,5 @@
+###Одна из первых работ. Качество кода примерно -5 по шкале от 0 до 5...
+
 import time
 import selenium
 from selenium import webdriver
